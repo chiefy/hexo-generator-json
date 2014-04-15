@@ -8,4 +8,5 @@ Generate JSON data for consumption.
 $ npm install hexo-generator-json --save
 ```
 
+
 [Hexo]: http://zespia.tw/hexo
